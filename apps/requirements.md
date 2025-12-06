@@ -1,5 +1,5 @@
 
-- For Function Requirements
+- For Functional Requirements
 
   1) User Driven :
         ✔ What can the user CREATE? 
